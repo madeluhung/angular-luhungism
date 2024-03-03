@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "luhungism": "^1.0.0",
-    "react-luhungism": "^1.0.0",
+    "react-luhungism": "^1.0.0"
   }
 }
